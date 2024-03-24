@@ -19,7 +19,7 @@ This is a simple Python script for batch editing images using the Python Imaging
 
 # Usage
 Clone the repository to your local machine
-- git clone https://github.com/shubhaygautam/Image_Editor.git
+- git clone https://github.com/shubhaygautam/PyImage_Editor.git
 - Place the images you want to edit in the img directory.
 
 ---
